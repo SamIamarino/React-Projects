@@ -49,4 +49,4 @@ Todos os projetos são independentes. Para executar qualquer um deles:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/SeuUsuario/React-Art.git
+   git clone https://github.com/SamIamarino/React-Projects
