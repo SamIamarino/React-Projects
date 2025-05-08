@@ -1,4 +1,4 @@
-# 🎨 React Art – Aprendendo a Estilizar com React
+# React Studies – Aprendendo um pouco sobre React.
 
 Este repositório é uma coletânea de pequenos projetos desenvolvidos com **React**, voltados para o aprendizado prático de conceitos essenciais, estilização de componentes e lógica de interface, utilizando o curso React-Full-Guide do Maximilian Schwarzmüller.
 
