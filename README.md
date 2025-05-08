@@ -50,3 +50,13 @@ Todos os projetos são independentes. Para executar qualquer um deles:
 1. Clone o repositório:
    ```bash
    git clone https://github.com/SamIamarino/React-Projects
+
+2. Va para o diretorio do projeto desejado:
+   ```bash
+   cd ./projetoDesejado
+
+3. Instale as dependências e rode a aplicação:
+   ```bash
+   npm i
+   npm run dev
+
