@@ -9,7 +9,7 @@ Este repositório é uma coletânea de pequenos projetos desenvolvidos com **Rea
 ### 🧩 1. React Art - Styling with React
 Projeto voltado ao aprendizado de diferentes formas de aplicar estilos em componentes React.
 
-<img src="docs/fotosReadme (1).png" width="200"/>
+<img src="docs/fotosReadme (1).png" width="400"/>
 
 **Tópicos abordados:**
 - Estilo inline dinâmico
