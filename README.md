@@ -23,6 +23,8 @@ Projeto voltado ao aprendizado de diferentes formas de aplicar estilos em compon
 ### 📄 2. React-Essentials-Page
 Uma página simples construída com foco nos fundamentos do React, ideal para iniciantes.
 
+<img src="docs/fotosReadme (2).png" width="400"/>
+
 **Tópicos abordados:**
 - Criação de componentes funcionais
 - Uso de props e state
@@ -35,6 +37,8 @@ Uma página simples construída com foco nos fundamentos do React, ideal para in
 
 ### ❌ 3. React-Tic-Tac-Toe
 Clássico jogo da velha implementado com React, útil para consolidar lógica de estado e renderização.
+
+<img src="docs/fotosReadme (3).png" width="400"/>
 
 **Tópicos abordados:**
 - Gerenciamento de estado
